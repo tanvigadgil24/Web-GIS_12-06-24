@@ -1,0 +1,24 @@
+
+
+body {
+    background-color: rgba(0, 0, 0, 0.5);
+    background-image: url('bg.jpg'); /* Replace 'background-image.jpg' with the path to your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.create-account-link {
+    color: white; /* Change link color */
+    /* Add any additional styles you want for the link */
+}
+
+h2.mt-5 {
+    color: white; /* Change the color to blue (you can replace 'blue' with any color you prefer) */
+    /* Add any additional styles you want for the h2 element */
+}
+
+p.mt-3 {
+    color: black; /* Change the color to blue (you can replace 'blue' with any color you prefer) */
+    font-weight: 500;
+}
